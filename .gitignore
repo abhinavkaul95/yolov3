@@ -25,7 +25,7 @@
 
 storage.googleapis.com
 runs/*
-
+!runs/detect/exp
 pycocotools/*
 results*.txt
 gcp_test*.sh
