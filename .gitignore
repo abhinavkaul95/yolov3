@@ -27,8 +27,9 @@ storage.googleapis.com
 runs/*
 data/*
 !data/*.yaml
-!data/images/zidane.jpg
 !data/images/bus.jpg
+!data/images/image.jpg
+!data/images/zidane.jpg
 !data/coco.names
 !data/coco_paper.names
 !data/coco.data
